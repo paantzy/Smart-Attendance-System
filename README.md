@@ -12,17 +12,17 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Database Schema](SAAFYP/DATABASE_SCHEMA.md)
-- [Project Structure](#project-structure)
-- [Project Documentation](SAAFYP/PROJECT_DOCUMENTATION.md)
-- [Development](#development)
-- [Building APK](#building-apk)
-- [Contributing](#contributing)
+- [Overview]
+- [Features]
+- [Technology Stack]
+- [Installation]
+- [Usage]
+- [Database Schema]
+- [Project Structure]
+- [Project Documentation]
+- [Development]
+- [Building APK]
+- [Contributing]
 
 ---
 
