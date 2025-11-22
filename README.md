@@ -139,25 +139,6 @@ The system provides real-time synchronization, analytics dashboards, and detaile
 
 ---
 
-## 📸 Screenshots
-
-### Teacher Interface
-1. **Login Screen** - Role-based authentication
-2. **Teacher Dashboard** - Statistics and charts
-3. **QR Scanner** - Active scanning interface
-4. **Student Management** - CRUD operations
-5. **Attendance Status** - Records overview
-6. **Reports** - Analytics and trends
-
-### Parent Interface
-1. **Parent Dashboard** - Child's statistics
-2. **Attendance History** - Complete records
-3. **Notification View** - Real-time alerts
-
-*Note: Screenshots are available in the `/screenshots` folder*
-
----
-
 ## 💻 Installation
 
 ### Prerequisites
@@ -409,7 +390,7 @@ This project is developed for academic purposes as part of a Final Year Project.
 ## 👥 Authors
 
 - **Developer**: Final Year Student
-- **Institution**: [Your Institution Name]
+- **Institution**:Politeknik Ungku Omar
 - **Year**: 2025
 
 ---
@@ -428,7 +409,7 @@ This project is developed for academic purposes as part of a Final Year Project.
 For questions or issues:
 - Check the [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)
 - Review the [DATABASE_SCHEMA.md](DATABASE_SCHEMA.md)
-- Contact: [Your Email]
+- Contact: frhnikhmal1@gmail.com
 
 ---
 
